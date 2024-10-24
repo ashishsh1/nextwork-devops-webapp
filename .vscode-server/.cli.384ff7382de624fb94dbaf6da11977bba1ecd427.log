@@ -1,0 +1,12 @@
+Listening on 127.0.0.1:39467
+[2024-10-24 10:13:20] info Disposed of connection to running server.
+looking for token 3a98221e-f768-4079-a4d7-c6a5c36af3ec, got Some("3a98221e-f768-4079-a4d7-c6a5c36af3ec")
+[2024-10-24 10:13:20] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/pid.txt for a running server...
+[2024-10-24 10:13:21] info Downloading Visual Studio Code server -> /tmp/.tmpZ3cz9C/vscode-server-linux-x64.tar.gz
+[2024-10-24 10:13:23] info Starting server...
+[2024-10-24 10:13:24] info Server started
+[2024-10-24 10:13:51] info Disposed of connection to running server.
+[2024-10-24 10:13:53] info Disposed of connection to running server.
+looking for token 3a98221e-f768-4079-a4d7-c6a5c36af3ec, got Some("3a98221e-f768-4079-a4d7-c6a5c36af3ec")
+[2024-10-24 10:13:53] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-384ff7382de624fb94dbaf6da11977bba1ecd427/pid.txt for a running server...
+[2024-10-24 10:13:53] info Found running server (pid=25859)
